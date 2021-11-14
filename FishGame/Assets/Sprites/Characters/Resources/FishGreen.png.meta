@@ -203,6 +203,8 @@ TextureImporter:
   isReadable: 0
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -212,8 +214,8 @@ TextureImporter:
   textureSettings:
     serializedVersion: 2
     filterMode: 0
-    aniso: -1
-    mipBias: -100
+    aniso: 1
+    mipBias: 0
     wrapU: 1
     wrapV: 1
     wrapW: 1
@@ -234,9 +236,12 @@ TextureImporter:
   textureType: 8
   textureShape: 1
   singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
   maxTextureSizeSet: 0
   compressionQualitySet: 0
   textureFormatSet: 0
+  ignorePngGamma: 0
   applyGammaDecoding: 0
   platformSettings:
   - serializedVersion: 3
@@ -1548,6 +1553,67 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      Fin_Idle_4: -3000188323052578098
+      Whale(76x66)(Green)_57: 7518525219398018010
+      Idle_4: 2410646733629291835
+      Whale(76x66)(Green)_34: 3871938403809896923
+      Run_2: 2218397920085616539
+      Whale(76x66)(Green)_56: 6421348782962632350
+      Fin_Idle_1: -1204601569671661118
+      Whale(76x66)(Green)_33: -2933102343721761132
+      Whale(76x66)(Green)_42: -1060929818156764036
+      Fin_Run_4: 1347919844587770438
+      Whale(76x66)(Green)_38: 2185542182634869463
+      Idle_3: -7373508830793201959
+      Run_1: 7002719735251296992
+      Fin_Run_5: -1920837418794403669
+      Idle_6: 3129100734548034494
+      Whale(76x66)(Green)_26: 7323287554892562001
+      Whale(76x66)(Green)_39: -8051306642126195187
+      Whale(76x66)(Green)_50: 5296298471551260769
+      Whale(76x66)(Green)_35: 8671757600581688849
+      Whale(76x66)(Green)_52: 710984310336271643
+      Fin_Run_0: -4600514427088749932
+      Run_3: -6927643935952461331
+      Whale(76x66)(Green)_43: 1205675875155393072
+      Fin_Idle_2: -6251193574225881892
+      Fin_Run_2: -1977667276171506805
+      Whale(76x66)(Green)_36: 8577833859179847472
+      Run_5: -2955008195447880590
+      Fin_Run_3: -6672683731362181666
+      Whale(76x66)(Green)_54: 8309577404180945087
+      Fin_Idle_0: 8606769499527978119
+      Fin_Run_1: 8938459383364841461
+      Whale(76x66)(Green)_44: -7965099140640561785
+      Whale(76x66)(Green)_46: -1705458490111732878
+      Whale(76x66)(Green)_55: -2361318559434278169
+      Whale(76x66)(Green)_58: 3870459995925377508
+      Idle_1: 6733735245635861479
+      Whale(76x66)(Green)_47: -946375985214798939
+      Whale(76x66)(Green)_45: -2366620922110132230
+      Whale(76x66)(Green)_31: 3935020555535302078
+      Whale(76x66)(Green)_28: -6763759949488382303
+      Whale(76x66)(Green)_49: -3753090397284270087
+      Idle_5: 2892252117371174610
+      Idle_0: -358292266231883618
+      Fin_Idle_6: 3849775876740548112
+      Whale(76x66)(Green)_29: 1069756543332352339
+      Whale(76x66)(Green)_53: -6386859603480177410
+      Whale(76x66)(Green)_27: -3473690239735610740
+      Whale(76x66)(Green)_48: -8135545604390857759
+      Whale(76x66)(Green)_40: -8909427643443638632
+      Fin_Idle_3: -127877335575128657
+      Whale(76x66)(Green)_32: 7497751310551038538
+      Whale(76x66)(Green)_51: -3108363906038721634
+      Idle_2: -6027504992108739039
+      Run_4: 4623703169953134134
+      Whale(76x66)(Green)_59: -1059543720426812621
+      Run_0: -8553193656454991587
+      Whale(76x66)(Green)_41: -7737231658788079875
+      Fin_Idle_5: -7104572541803218324
+      Whale(76x66)(Green)_30: -1064962236221498258
+      Whale(76x66)(Green)_37: 3987768940214503805
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

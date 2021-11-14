@@ -203,6 +203,8 @@ TextureImporter:
   isReadable: 0
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -212,8 +214,8 @@ TextureImporter:
   textureSettings:
     serializedVersion: 2
     filterMode: 0
-    aniso: -1
-    mipBias: -100
+    aniso: 1
+    mipBias: 0
     wrapU: 1
     wrapV: 1
     wrapW: 1
@@ -234,9 +236,12 @@ TextureImporter:
   textureType: 8
   textureShape: 1
   singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
   maxTextureSizeSet: 0
   compressionQualitySet: 0
   textureFormatSet: 0
+  ignorePngGamma: 0
   applyGammaDecoding: 0
   platformSettings:
   - serializedVersion: 3
@@ -1548,6 +1553,67 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      Whale(76x66)(Blue)_36: -6649255795308018934
+      Fin_Idle_4: 7869294997379863940
+      Idle_4: 8138456223811168559
+      Jump_2: -3315023179407112854
+      Fin_Land_0: 8140223882642016020
+      Run_2: 8390271950590631605
+      Fin_Death_Hit_2: -101449719828764530
+      Death_Hit_1: 6616795795845262751
+      Jump_1: -6606068994869735835
+      Whale(76x66)(Blue)_37: 6330886216082040761
+      Whale(76x66)(Blue)_34: 5121124887040012539
+      Fin_Jump_1: 1285669803414091740
+      Whale(76x66)(Blue)_35: 6502792150393973607
+      Fin_Idle_1: -3515416469669703352
+      Death_Hit_2: -4737780373728162059
+      Fin_Run_4: -6919374723470541772
+      Idle_3: -7263593705141140366
+      Fin_Dead_2: -4128547397120223372
+      Run_1: -4676479252745886753
+      Whale(76x66)(Blue)_32: 7163974658371392478
+      Fin_Run_5: 1514133054543187525
+      Idle_6: 2361858045011726286
+      Dead_0: 1548269976425281605
+      Whale(76x66)(Blue)_39: -7646512124091182851
+      Land_0: -8020298872293867987
+      Fin_Jump_2: -1554502222006196956
+      Jump_0: 7772785992446449156
+      Fin_Run_0: 8578698058167963860
+      Run_3: -8169791669817243740
+      Fin_Idle_2: 9000406285236266314
+      Fin_Run_2: -3956867247324943291
+      Fin_Death_Hit_0: -5162867796177726193
+      Dead_2: -6909580853173317084
+      Run_5: -235958958963706817
+      Fin_Run_3: 8472101540702743501
+      Death_Hit_0: -1285877170955540350
+      Fin_Death_Hit_1: -1811674467026413341
+      Fin_Idle_0: -220339166131008824
+      Fin_Run_1: 4843652089317652046
+      Fin_Dead_0: 3670224390739311938
+      Fin_Dead_3: -5061186107716760223
+      Whale(76x66)(Blue)_38: -1412011378244942226
+      Idle_1: 1604077930284500943
+      Dead_1: 2121164150656614512
+      Fin_Land_1: -2651063090189338945
+      Dead_3: 3543626414592802566
+      Fin_Jump_0: -2889291071150871728
+      Idle_5: -8435788478046135569
+      Idle_0: -1583873476454040084
+      Fin_Idle_6: -2762025169006548744
+      Whale(76x66)(Blue)_33: -1405266333114185813
+      Fall_0: -2133298224626378454
+      Fin_Idle_3: -6764432661988372452
+      Fin_Fall_0: -3616652851702045989
+      Idle_2: 1405153830316889863
+      Run_4: -6966171554085766647
+      Run_0: -1672622731196679503
+      Fin_Idle_5: -1842843630904893632
+      Fin_Dead_1: 878993489827427138
+      Land_1: -2637948304504861799
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
